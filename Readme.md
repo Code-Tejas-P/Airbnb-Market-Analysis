@@ -19,22 +19,17 @@ This project provides an interactive analysis of Airbnb listings, focusing on pr
 *   **Dynamic Filtering:** Implemented dashboard actions that allow users to filter the entire view by selecting specific neighborhoods or room types.
     
 
-📈 Key Insights
+📈 DashBoard
 ---------------
+<img width="3432" height="1305" alt="image" src="https://github.com/user-attachments/assets/7aa14718-fe2b-4e50-a28c-4ae1718df62b" />
 
-*   **Price Distribution:** 
-    
-*   **Top Neighborhoods:** 
-    
-*   **Revenue Drivers:** 
+
     
 
 🚀 How to View
 --------------
-
-1.  **Interactive Version:** \[Insert your Tableau Public Link Here\]
     
-2.  **Static Files:** Download the .twbx file included in this repository to open it in Tableau Desktop or Tableau Reader.
+ **Static Files:** Download the .twbx file included in this repository to open it in Tableau Desktop or Tableau Reader.
     
 
 🧰 Tools Used
